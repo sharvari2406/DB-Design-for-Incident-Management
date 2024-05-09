@@ -1,0 +1,101 @@
+ticket_number,case_status,short_desc,case_desc,issue_type,assigned_to,resolution_code,resolution_notes
+T000000001,new,Short Desc 1,Case Desc 1,wired,Assignee1,reboot,Note for reboot
+T000000002,new,Short Desc 2,Case Desc 2,wired,Assignee2,replacement,Note for replacement
+T000000003,new,Short Desc 3,Case Desc 3,wired,Assignee3,vendor resolved,Note for vendor resolved
+T000000004,new,Short Desc 4,Case Desc 4,wired,Assignee4,updated configuration,Note for updated configuration
+T000000005,new,Short Desc 5,Case Desc 5,wired,Assignee5,others,Note for others
+T000000006,new,Short Desc 6,Case Desc 6,wired,Assignee6,remote fix,Note for remote fix
+T000000007,new,Short Desc 7,Case Desc 7,wired,Assignee7,reboot,Note for reboot
+T000000008,new,Short Desc 8,Case Desc 8,wired,Assignee8,replacement,Note for replacement
+T000000009,new,Short Desc 9,Case Desc 9,wired,Assignee9,vendor resolved,Note for vendor resolved
+T000000010,new,Short Desc 10,Case Desc 10,wired,Assignee10,updated configuration,Note for updated configuration
+T000000011,new,Short Desc 11,Case Desc 11,wired,Assignee11,others,Note for others
+T000000012,new,Short Desc 12,Case Desc 12,wired,Assignee12,remote fix,Note for remote fix
+T000000013,new,Short Desc 13,Case Desc 13,wired,Assignee13,reboot,Note for reboot
+T000000014,new,Short Desc 14,Case Desc 14,wired,Assignee14,replacement,Note for replacement
+T000000015,new,Short Desc 15,Case Desc 15,wired,Assignee15,vendor resolved,Note for vendor resolved
+T000000016,new,Short Desc 16,Case Desc 16,wired,Assignee16,updated configuration,Note for updated configuration
+T000000017,new,Short Desc 17,Case Desc 17,wired,Assignee17,others,Note for others
+T000000018,new,Short Desc 18,Case Desc 18,wired,Assignee18,remote fix,Note for remote fix
+T000000019,new,Short Desc 19,Case Desc 19,wired,Assignee19,reboot,Note for reboot
+T000000020,new,Short Desc 20,Case Desc 20,wired,Assignee20,replacement,Note for replacement
+T000000021,new,Short Desc 21,Case Desc 21,wired,Assignee21,vendor resolved,Note for vendor resolved
+T000000022,new,Short Desc 22,Case Desc 22,wired,Assignee22,updated configuration,Note for updated configuration
+T000000023,new,Short Desc 23,Case Desc 23,wired,Assignee23,others,Note for others
+T000000024,new,Short Desc 24,Case Desc 24,wired,Assignee24,remote fix,Note for remote fix
+T000000025,new,Short Desc 25,Case Desc 25,wired,Assignee25,reboot,Note for reboot
+T000000026,new,Short Desc 26,Case Desc 26,wired,Assignee26,replacement,Note for replacement
+T000000027,new,Short Desc 27,Case Desc 27,wired,Assignee27,vendor resolved,Note for vendor resolved
+T000000028,new,Short Desc 28,Case Desc 28,wired,Assignee28,updated configuration,Note for updated configuration
+T000000029,new,Short Desc 29,Case Desc 29,wired,Assignee29,others,Note for others
+T000000030,new,Short Desc 30,Case Desc 30,wired,Assignee30,remote fix,Note for remote fix
+T000000031,new,Short Desc 31,Case Desc 31,wired,Assignee31,reboot,Note for reboot
+T000000032,new,Short Desc 32,Case Desc 32,wired,Assignee32,replacement,Note for replacement
+T000000033,new,Short Desc 33,Case Desc 33,wired,Assignee33,vendor resolved,Note for vendor resolved
+T000000034,new,Short Desc 34,Case Desc 34,wired,Assignee34,updated configuration,Note for updated configuration
+T000000035,new,Short Desc 35,Case Desc 35,wired,Assignee35,others,Note for others
+T000000036,new,Short Desc 36,Case Desc 36,wired,Assignee36,remote fix,Note for remote fix
+T000000037,new,Short Desc 37,Case Desc 37,wired,Assignee37,reboot,Note for reboot
+T000000038,new,Short Desc 38,Case Desc 38,wired,Assignee38,replacement,Note for replacement
+T000000039,new,Short Desc 39,Case Desc 39,wired,Assignee39,vendor resolved,Note for vendor resolved
+T000000040,new,Short Desc 40,Case Desc 40,wired,Assignee40,updated configuration,Note for updated configuration
+T000000041,new,Short Desc 41,Case Desc 41,wired,Assignee41,others,Note for others
+T000000042,new,Short Desc 42,Case Desc 42,wired,Assignee42,remote fix,Note for remote fix
+T000000043,new,Short Desc 43,Case Desc 43,wired,Assignee43,reboot,Note for reboot
+T000000044,new,Short Desc 44,Case Desc 44,wired,Assignee44,replacement,Note for replacement
+T000000045,new,Short Desc 45,Case Desc 45,wired,Assignee45,vendor resolved,Note for vendor resolved
+T000000046,new,Short Desc 46,Case Desc 46,wired,Assignee46,updated configuration,Note for updated configuration
+T000000047,new,Short Desc 47,Case Desc 47,wired,Assignee47,others,Note for others
+T000000048,new,Short Desc 48,Case Desc 48,wired,Assignee48,remote fix,Note for remote fix
+T000000049,new,Short Desc 49,Case Desc 49,wired,Assignee49,reboot,Note for reboot
+T000000050,new,Short Desc 50,Case Desc 50,wired,Assignee50,replacement,Note for replacement
+T000000051,new,Short Desc 51,Case Desc 51,wired,Assignee51,vendor resolved,Note for vendor resolved
+T000000052,new,Short Desc 52,Case Desc 52,wired,Assignee52,updated configuration,Note for updated configuration
+T000000053,new,Short Desc 53,Case Desc 53,wired,Assignee53,others,Note for others
+T000000054,new,Short Desc 54,Case Desc 54,wired,Assignee54,remote fix,Note for remote fix
+T000000055,new,Short Desc 55,Case Desc 55,wired,Assignee55,reboot,Note for reboot
+T000000056,new,Short Desc 56,Case Desc 56,wired,Assignee56,replacement,Note for replacement
+T000000057,new,Short Desc 57,Case Desc 57,wired,Assignee57,vendor resolved,Note for vendor resolved
+T000000058,new,Short Desc 58,Case Desc 58,wired,Assignee58,updated configuration,Note for updated configuration
+T000000059,new,Short Desc 59,Case Desc 59,wired,Assignee59,others,Note for others
+T000000060,new,Short Desc 60,Case Desc 60,wired,Assignee60,remote fix,Note for remote fix
+T000000061,new,Short Desc 61,Case Desc 61,wired,Assignee61,reboot,Note for reboot
+T000000062,new,Short Desc 62,Case Desc 62,wired,Assignee62,replacement,Note for replacement
+T000000063,new,Short Desc 63,Case Desc 63,wired,Assignee63,vendor resolved,Note for vendor resolved
+T000000064,new,Short Desc 64,Case Desc 64,wired,Assignee64,updated configuration,Note for updated configuration
+T000000065,new,Short Desc 65,Case Desc 65,wired,Assignee65,others,Note for others
+T000000066,new,Short Desc 66,Case Desc 66,wired,Assignee66,remote fix,Note for remote fix
+T000000067,new,Short Desc 67,Case Desc 67,wired,Assignee67,reboot,Note for reboot
+T000000068,new,Short Desc 68,Case Desc 68,wired,Assignee68,replacement,Note for replacement
+T000000069,new,Short Desc 69,Case Desc 69,wired,Assignee69,vendor resolved,Note for vendor resolved
+T000000070,new,Short Desc 70,Case Desc 70,wired,Assignee70,updated configuration,Note for updated configuration
+T000000071,new,Short Desc 71,Case Desc 71,wired,Assignee71,others,Note for others
+T000000072,new,Short Desc 72,Case Desc 72,wired,Assignee72,remote fix,Note for remote fix
+T000000073,new,Short Desc 73,Case Desc 73,wired,Assignee73,reboot,Note for reboot
+T000000074,new,Short Desc 74,Case Desc 74,wired,Assignee74,replacement,Note for replacement
+T000000075,new,Short Desc 75,Case Desc 75,wired,Assignee75,vendor resolved,Note for vendor resolved
+T000000076,new,Short Desc 76,Case Desc 76,wired,Assignee76,updated configuration,Note for updated configuration
+T000000077,new,Short Desc 77,Case Desc 77,wired,Assignee77,others,Note for others
+T000000078,new,Short Desc 78,Case Desc 78,wired,Assignee78,remote fix,Note for remote fix
+T000000079,new,Short Desc 79,Case Desc 79,wired,Assignee79,reboot,Note for reboot
+T000000080,new,Short Desc 80,Case Desc 80,wired,Assignee80,replacement,Note for replacement
+T000000081,new,Short Desc 81,Case Desc 81,wired,Assignee81,vendor resolved,Note for vendor resolved
+T000000082,new,Short Desc 82,Case Desc 82,wired,Assignee82,updated configuration,Note for updated configuration
+T000000083,new,Short Desc 83,Case Desc 83,wired,Assignee83,others,Note for others
+T000000084,new,Short Desc 84,Case Desc 84,wired,Assignee84,remote fix,Note for remote fix
+T000000085,new,Short Desc 85,Case Desc 85,wired,Assignee85,reboot,Note for reboot
+T000000086,new,Short Desc 86,Case Desc 86,wired,Assignee86,replacement,Note for replacement
+T000000087,new,Short Desc 87,Case Desc 87,wired,Assignee87,vendor resolved,Note for vendor resolved
+T000000088,new,Short Desc 88,Case Desc 88,wired,Assignee88,updated configuration,Note for updated configuration
+T000000089,new,Short Desc 89,Case Desc 89,wired,Assignee89,others,Note for others
+T000000090,new,Short Desc 90,Case Desc 90,wired,Assignee90,remote fix,Note for remote fix
+T000000091,new,Short Desc 91,Case Desc 91,wired,Assignee91,reboot,Note for reboot
+T000000092,new,Short Desc 92,Case Desc 92,wired,Assignee92,replacement,Note for replacement
+T000000093,new,Short Desc 93,Case Desc 93,wired,Assignee93,vendor resolved,Note for vendor resolved
+T000000094,new,Short Desc 94,Case Desc 94,wired,Assignee94,updated configuration,Note for updated configuration
+T000000095,new,Short Desc 95,Case Desc 95,wired,Assignee95,others,Note for others
+T000000096,new,Short Desc 96,Case Desc 96,wired,Assignee96,remote fix,Note for remote fix
+T000000097,new,Short Desc 97,Case Desc 97,wired,Assignee97,reboot,Note for reboot
+T000000098,new,Short Desc 98,Case Desc 98,wired,Assignee98,replacement,Note for replacement
+T000000099,new,Short Desc 99,Case Desc 99,wired,Assignee99,vendor resolved,Note for vendor resolved
+T000000100,new,Short Desc 100,Case Desc 100,wired,Assignee100,updated configuration,Note for updated configuration
